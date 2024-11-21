@@ -1,0 +1,6 @@
+train: output/train
+val: output/val
+test: output/test
+
+nc: 2
+names: ['crop','weed']

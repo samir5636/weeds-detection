@@ -1,6 +1,0 @@
-train: /content/output/train
-val: /content/output/val
-test: /content/output/test
-
-nc: 2
-names: ['crop','weed']
