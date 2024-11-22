@@ -233,7 +233,7 @@ libs/
 # Gradle Wrapper files
 !gradle-wrapper.jar
 calibration_image_sample_data_20x128x128x3_float32.npy
-Weed_Detection5a431d7.zip
+DATA/Weed_Detection5a431d7.zip
 
 
 
